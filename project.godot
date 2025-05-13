@@ -22,6 +22,19 @@ window/size/window_width_override=1280
 window/size/window_height_override=720
 window/stretch/mode="canvas_items"
 
+[file_customization]
+
+folder_colors={
+"res://Assets/": "blue",
+"res://Assets/Fonts/": "red",
+"res://Assets/Graphics/": "yellow",
+"res://Assets/Graphics/Sprites/": "orange",
+"res://Assets/Graphics/VFX/": "teal",
+"res://Assets/Music/": "purple",
+"res://Assets/Music/SFX/": "pink",
+"res://Assets/Music/Soundtracks/": "teal"
+}
+
 [rendering]
 
 renderer/rendering_method="gl_compatibility"
